@@ -1,4 +1,5 @@
 <?php  
+//функция вызова всего массива статей
 function articles_all(){
     
     $art1 = array(
