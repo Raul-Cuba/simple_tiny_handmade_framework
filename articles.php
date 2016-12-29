@@ -11,7 +11,7 @@
           
 
 	      <?php
-               //сначала вытыгиваем инфу по всем статьям
+               //сначала вытыгиваем инфу по всем статьям!
                include ("models/articles.php");
                $articles = articles_all(); 
                
